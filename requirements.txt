@@ -1,0 +1,10 @@
+numpy~=1.19.5
+scipy
+soundfile~=0.10.3.post1
+ffmpeg-python
+nussl~=1.1.9
+
+dlib~=19.22.1
+librosa~=0.8.1
+scikit-learn~=0.24.2
+python_speech_features
